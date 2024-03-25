@@ -127,7 +127,7 @@ const countries = [
   'Nicaragua',
   'Niger',
   'Nigeria',
-  'Norway',
+  'Norway', 
   'Oman',
   'Pakistan',
   'Palau',
@@ -193,3 +193,5 @@ const countries = [
   'Zambia',
   'Zimbabwe'
 ]
+
+
