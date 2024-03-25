@@ -81,7 +81,6 @@ console.log('Number of numbers:', numbers.length)
 console.log('Fruits:', fruits)
 console.log('Number of fruits:', fruits.length)
 
-console.log('Vegetables:', vegetables)
 console.log('Number of vegetables:', vegetables.length)
 
 console.log('Animal products:', animalProducts)
@@ -362,7 +361,7 @@ console.log(numbers.indexOf(6)) // -> -1
 ```
 
 Check an element if it exist in an array.
-
+ 
 - Check items in a list
   
 ```js
@@ -514,7 +513,7 @@ Splice: It takes three parameters:Starting position, number of times to be remov
 ```
 
 ```js
-  const numbers = [1, 2, 3, 4, 5, 6]
+  const numbers = [1, 2, 3, 4, 5, 6]   
 	numbers.splice(3, 3, 7, 8, 9)
   console.log(numbers.splice(3, 3, 7, 8, 9))  // -> [1, 2, 3, 7, 8, 9] //it removes three item and replace three items
 ```
